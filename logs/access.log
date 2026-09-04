@@ -1,0 +1,4 @@
+GET / 200
+GET /index.html 200
+GET /login 200
+GET /unknown 404
